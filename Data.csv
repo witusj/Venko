@@ -1,0 +1,81 @@
+Periode,Scope,Categorie,Onderdeel,Notitie 1,Notitie 2,Eenheid, Hoeveelheid , Conversiefactor ,MT_CO2,Overhead_perc,Overhead_MT_CO2,Uitvoering_perc,Uitvoering_MT_CO2,Bron,Toelichting,Nauwkeurigheid
+Q4 14,1,Fuel,Gasverbruik,Hoogeveen,"52.7286160,6.4901000",m3 Aardgas,"25,794.50",1.825,47.07,39%,18.25,61%,28.82,Facturen,Overzicht energieverbruik Venko Groep,99%
+Q4 14,1,Fuel,Gasverbruik,Hoogezand ,"53.1634740,6.7563200",m3 Aardgas,"56,605.00",1.825,103.3,2%,1.83,98%,101.48,Facturen,Overzicht energieverbruik Venko Groep,99%
+Q4 14,1,Fuel,Gasverbruik,Arnhem,"51.9851030,5.8987300",m3 Aardgas,"1,032.50",1.825,1.88,100%,1.88,0%, -   ,Facturen,Overzicht energieverbruik Venko Groep,99%
+Q4 14,1,Fuel,Gasverbruik,Den Helder,"52.9562810,4.7607970",m3 Aardgas,"44,974.00",1.825,82.08,4%,2.88,96%,79.19,Facturen,Overzicht energieverbruik Venko Groep,99%
+Q4 14,1,Fuel,Gasverbruik,Kortemark,"51.0284500,3.0441090",Liter Propaan,"28,850.00",1.53,44.14,6%,2.64,94%,41.5,Facturen,Opgave Opmetaal,99%
+Q4 14,1,Fuel,Machines en diversen,Diesel,,Liter Diesel,"40,170.02",3.135,125.93,0%, -   ,100%,125.93,Facturen,Opgave via Materieel Beheer,90%
+Q4 14,1,Fuel,Machines en diversen,Benzine,,Liter Benzine,"2,916.06",2.78,8.11,0%, -   ,100%,8.11,Facturen,Opgave via Materieel Beheer,90%
+Q4 14,1,Fuel,Machines en diversen,LPG,,Liter LPG,"10,650.90",1.86,19.81,0%, -   ,100%,19.81,Facturen,Opgave via Materieel Beheer,90%
+Q4 14,1,Fuel,Machines en diversen,Acetyleen,,Liter Acetyleen,40,0.564,0.02,0%, -   ,0%, -   ,Schatting,Geschat verbruik door OS,50%
+Q4 14,1,Fuel,Machines en diversen,Gasolie Kortemark,,Liter Gasolie,"18,911.00",3.185,60.23,0%, -   ,100%,60.23,Metingen,Overzicht energieverbruik Venko Groep,99%
+Q4 14,1,Business travel - car,Leasing auto's,Diesel,,Liter Diesel, -   ,3.185,,,,,,Facturen,Opgave tankpas maatschappij,99%
+Q4 14,1,Business travel - car,Leasing auto's,Benzine,,Liter Benzine, -   ,2.78,,,,,,Facturen,Opgave tankpas maatschappij,99%
+Q4 14,1,Business travel - car,Leasing auto's,LPG,,Liter LPG, -   ,1.86,,,,,,Facturen,Opgave tankpas maatschappij,99%
+Q4 14,1,Business travel - car,Eigen beheer auto's,Diesel,,Liter Diesel,"125,521.63",3.135,393.51,18%,70.04,82%,323.47,Facturen,Opgave via Materieel Beheer a.h.v. Grootboekkaartjes,99%
+Q4 14,1,Business travel - car,Eigen beheer auto's,Benzine,,Liter Benzine,"8,938.27",2.78,24.85,100%,24.85,0%, -   ,Facturen,Opgave via Materieel Beheer a.h.v. Grootboekkaartjes,99%
+Q4 14,1,Business travel - car,Eigen beheer auto's,LPG,,Liter LPG, -   ,1.86, -   ,0%, -   ,,,Facturen,Opgave via Materieel Beheer a.h.v. Grootboekkaartjes,99%
+Q4 14,1,Business travel - car,Overige,Overige,,, -   ,,,,,,,Anders,Opgave via Materieel Beheer a.h.v. Grootboekkaartjes,99%
+Q4 14,2,Business travel -air,Overige,Boeking agent,,Liters,"5,198.06",2.99,15.54,0%, -   ,100%,15.54,Facturen,Opgave Projectleider (Koert-Jan Sieders),95%
+Q4 14,2,Business travel -air,Overige,Boeking agent,,Kilometers,"19,982.00",0.27,5.4,40%,2.16,60%,3.24,Facturen,Opgave reisburo World Travel+Uniglobe,95%
+Q4 14,2,Business travel -air,Overige,Boeking agent,,Kilometers ,"15,188.00",0.2,3.04,50%,1.52,50%,1.52,Facturen,Opgave reisburo World Travel+Uniglobe,95%
+Q4 14,2,Business travel -air,Overige,Boeking agent,,Kilometers ,,0.135,,,,,,Facturen,Opgave reisburo World Travel+Uniglobe,95%
+Q4 14,2,Business travel -personal car ,Overige,Gedeclareerde kilometers voor zakelijke ritten,,Kilometers,"376,852.00",0.21,79.14,20%,15.83,80%,63.31,Anders,Opgave Loonadministratie,90%
+Q4 14,2,Electricity purchased,Overige,Elektriciteit,,KWh,"188,222.00",0.455,85.64,36%,30.62,64%,55.02,Facturen,Kopieen van administratie (maand-/jaarafrekeningen Bert Benjamins,99%
+Q4 14,2,Electricity purchased,Overige,Elektriciteit,,KWh,"208,085.00",0.455,94.68,2%,2.15,98%,92.53,Facturen,Kopieen van administratie (maand-/jaarafrekeningen Bert Benjamins,99%
+Q4 14,2,Electricity purchased,Overige,Elektriciteit,,KWh,"4,825.50",0.455,2.2,100%,2.2,0%, -   ,Facturen,Kopieen van administratie (maand-/jaarafrekeningen Bert Benjamins,99%
+Q4 14,2,Electricity purchased,Overige,Elektriciteit,,KWh,"546,664.00",0.455,248.73,3%,8.28,97%,240.45,Facturen,Kopieen van administratie (maand-/jaarafrekeningen Bert Benjamins,99%
+Q4 14,2,Electricity purchased,Overige,Elektriciteit,,KWh,"499,340.00",0.455,227.2,2%,3.99,98%,223.21,Metingen,Opgave via Opmetaal,99%
+Q4 14,2,Electricity purchased,Overige,Warmte,,GJ,"3,366.00",0.057,0.19,0%, -   ,100%,0.19,Metingen,Opgave Marinebedrijf,99%
+Q4 14,2,Electricity purchased,Overige,Perslucht,,M3,"691,087.00",0.07,48.52,0%, -   ,100%,48.52,Metingen,Opgave Marinebedrijf,99%
+Q4 14,3,Purchased goods & services,Inkoop materiaal,Verf,, Liter ,"150,000.00",2.73,409.5,0%, -   ,100%,409.5,Schatting,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Purchased goods & services,Inkoop materiaal,Straalmiddel,, kg ,"1,080,825.00",0.0175,18.91,0%, -   ,100%,18.91,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Purchased goods & services,Inkoop materiaal,Papier,, kg ,"1,000.00",1.3,1.3,100%,1.3,0%, -   ,Schatting,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Capital goods,Activa,Auto's,,,,0, -   ,, -   , ,,,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Fuel- and energy-related activities,Elektriciteitverbruik bij klanten,,, kWh ,"13,500.00",0.455,6.14,5%,0.31,95%,5.84,Schatting,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Fuel- and energy-related activities,Brandstof opdrachtgever,Equipement,, Liter diesel ,"436,093.00",3.135,"1,367.15",0%, -   ,100%,"1,367.15",Tabblad,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Upstream transportation & distribution,Transport inkoop,Vrachtwagenbewegingen,, Aantal / dag , ntb ,,,, -   ,,,,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Upstream transportation & distribution,Transport equipement Ambrosius,Trekker met oplegger,Ambrosius, tonkm ,"541,383.84",0.095,51.43,0%, -   ,100%,51.43,Tabblad,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Upstream transportation & distribution,Transport equipement Lubbers,Trekker met oplegger,Lubbers, Liter Diesel ,"2,094.52",3.135,6.57,0%, -   ,100%,6.57,Tabblad,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Upstream transportation & distribution,Transport equipement over zee,Scheepvaart,, Liter Stookolie ,"1,660.00",3.185,5.29,0%, -   ,100%,5.29,Tabblad,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Bedrijfsafval,Hoogeveen (Steenbergen), kg ,"45,380.00",1.14217,51.83,10%,5.18,90%,46.65,Tabblad,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Restafval,Hoogezand (Van Gansewinkel), kg , -   ,0.61, -   ,, -   ,,,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Restafval,Hoogeveen Cabine (Van Gansewinkel), kg ,,0, -   ,, -   ,,,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Restafval,Hoogeveen Outdoor (Van Ganswinkel), kg ,,0, -   ,, -   ,,,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Bouw- en Sloopafval,Hoogezand (Van Gansewinkel), kg ,"19,050.00",1.7,32.39,5%,1.62,95%,30.77,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Afval olie,Hoogeveen (Sita), kg ,"1,275.00",0.61,0.78,0%, -   ,100%,0.78,,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),"Bitumen, Teer, Vet",Hoogeveen (Sita), kg ,10,0.61,0.01,0%, -   ,100%,0.01,,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Lege Emballage,Hoogeveen (Sita), kg ,"2,060.50",1.208,2.49,0%, -   ,100%,2.49,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),"Olie, water, slib",Hoogeveen (Sita), kg ,"1,275.00",0.61,0.78,0%, -   ,100%,0.78,,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Oliefilters,Hoogeveen (Sita), kg ,30,0.61,0.02,0%, -   ,100%,0.02,,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Spuitbussen,Hoogeveen (Sita), kg ,11.5,0.61,0.01,0%, -   ,100%,0.01,,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Verfafval / verfblikken,Hoogeveen (Sita), kg ,"3,508.00",2.73,9.58,0%, -   ,100%,9.58,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Verf vast/pasteus,Hoogeveen (Sita), kg ,"12,772.00",2.73,34.87,0%, -   ,100%,34.87,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Gevaarlijk afval,Cobi-Neutra (Van Gansewinkel), kg ,,0, -   ,, -   ,,,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Gevaarlijk afval,Hoogeveen Cabine (Van Gansewinkel), kg ,,0, -   ,, -   ,,,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Gevaarlijk afval,Hoogeveen Outdoor (Van Ganswinkel), kg ,,0, -   ,, -   ,,,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),"Straalmiddelresten, grit reinigbaar",Hoogeveen (Sita), kg ,"75,811.00",0.61,46.24,0%, -   ,100%,46.24,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Kolkenslib,Hoogezand (Van Gansewinkel), kg ,"3,380.00",1.7,5.75,0%, -   ,100%,5.75,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Papier en Karton,Hoogezand (Van Gansewinkel), kg ,847,1.208,1.02,50%,0.51,50%,0.51,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Puin,Hoogezand (Van Gansewinkel), kg ,"2,660.00",0.61,1.62,0%, -   ,100%,1.62,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),PU-schijven,Hoogezand (Van Gansewinkel), kg ,"11,000.00",0.61,6.71,0%, -   ,100%,6.71,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Waste generated in operations,Afvalstromen (> 10 kg/ liter),Straat- en veegvuil,Hoogezand (Van Gansewinkel), kg ,"8,570.00",0.61,5.23,0%, -   ,100%,5.23,Opgave ,Opgave via Materieelbeheer Jeroen Kroeze (zie tab bladen),60%
+Q4 14,3,Business travel,Scope 2,,,,,0, -   ,, -   ,,,,,80%
+Q4 14,3,Employee commuting,Woon- werkverkeer,"Auto, prive",, Kilometers ,"215,282.32",0.21,45.21,100%,45.21,0%, -   ,Opgave ,,80%
+Q4 14,3,Employee commuting,Woon- werkverkeer,"Helikopter, Den Helder",, Uren ,219.375,1061.45,232.86,0%, -   ,100%,232.86,Schatting,,80%
+Q4 14,3,Upstream leased assets,Elektriciteitverbruik,Nvt,, kWh  ,,0, -   ,, -   ,,,, , 
+Q4 14,3,Upstream leased assets,Gasverbruik,Nvt, , m3 gas ,   ,,, ,#VALUE!, ,, ,,
+Q4 14,3,Downstream transportation & distribution,n.v.t.,,,,,0, -   ,, -   ,,,,,
+Q4 14,3,Processing of sold products,n.v.t.,,,,,0, -   ,, -   ,,,,,
+Q4 14,3,Use of sold products,n.v.t.,,,,,0, -   ,, -   ,,,,,
+Q4 14,3,End of life treatment of sold products,n.v.t.,,,,,0, -   ,, -   ,,,,,
+Q4 14,3,Downstream leased assets,Elektriciteitverbruik,Veendam,, KWh ,"1,210.00",0.615,0.74,100%,0.74,0%, -   ,,,
+Q4 14,3,Downstream leased assets,Elektriciteitverbruik,Hoogezand,Geschat verbruik derden , KWh ,"85,500.00",0.615,52.58,100%,52.58,0%, -   ,,,80%
+Q4 14,3,Downstream leased assets,Elektriciteitverbruik,Coevorden,, KWh , -   ,0.615, -   ,, -   ,,,,,80%
+Q4 14,3,Downstream leased assets,Elektriciteitverbruik,Nieuw Schoonebeek,, KWh , -   ,0.615, -   ,, -   ,,,,,
+Q4 14,3,Downstream leased assets,Gasverbruik,Veendam,schatting o.b.v. Eerste twee maanden, m3 gas ,200,1.825,0.37,100%,0.37,0%, -   ,,,
+Q4 14,3,Downstream leased assets,Gasverbruik,Hoogezand,, m3 gas ,"20,000.00",1.825,36.5,100%,36.5,0%, -   ,,,
+Q4 14,3,Downstream leased assets,Gasverbruik,Coevorden,, m3 gas , -   ,1.825, -   ,, -   ,,,,,80%
+Q4 14,3,Downstream leased assets,Gasverbruik,Nieuw Schoonebeek,, m3 gas , -   ,1.825, -   ,, -   ,,,,,
+Q4 14,3,Franchises,n.v.t.,,,,,,,,,0%, -   ,,,
+Q4 14,3,Investments,n.v.t.,,,,,,,,,0%, -   ,,,
